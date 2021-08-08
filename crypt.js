@@ -61,7 +61,8 @@ const symbols = {
     "W": "⚑℡☏",
     "X": "✑㍶✘",
     "Y": "❥ღ✱",
-    "Z": "❖½Ⓣ"
+    "Z": "❖½Ⓣ",
+    " ": ":()"
 };
 let toCypher = "MegaLOL96";
 let cyphered = "";

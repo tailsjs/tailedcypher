@@ -61,7 +61,8 @@ const cryptedSymbols = {
     '✑㍶✘': 'X',
     '❥ღ✱': 'Y',
     '❖½Ⓣ': 'Z',
-    "...": "_undefined_"
+    "...": "_undefined_",
+    ":()": " "
 };
 let string = "⓴⓴#&!(☺☻◘%!&✫➜✫￡Ł▣✫➜✫(()^()".match(/.{0,3}/g).filter(a => a != "");
 let decrypted = "";
